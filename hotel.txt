@@ -1,1 +1,3 @@
 Hello this message is for Diego Santizo
+
+New message in the master branch
